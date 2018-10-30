@@ -2,7 +2,6 @@
 
 ###########################################
 #   Cleanup for scratch_disk NFS mount    #
-#          Created by Punit Goyal         #
 #                                         #
 #   It can be used for a location which   #
 #  application team will use as temporary #
